@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Startup",
+      "title": "Design tips for designers that cover everything you need",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Floyd Miles",
+      "timestamp": 2143143434,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkartinki.pics%2Fpics%2F39064-milye-kotiki-v-shapochkah.html&psig=AOvVaw1Gg0quQwXtO2bPzduZ-U-4&ust=1715903011010000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMikq_DqkIYDFQAAAAAdAAAAABAE"
+    },
+
+    {
+      "id": 2,
+      "category": "Business",
+      "title": "How to build rapport with your web design clients",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Dianne Russell",
+      "timestamp": 214314332423,
+      "img": "https://masterpiecer-images.s3.yandex.net/a73b12916cf411ee8e7f3a7ca4cc1bdc:upscaled"
+    },
+
+    {
+      "id": 3,
+      "category": "Startup",
+      "title": "Logo design trends to avoid in 2022",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Jenny Wilson",
+      "timestamp": 214314333,
+      "img": "https://kartinki.pics/pics/uploads/posts/2022-09/1662729713_1-kartinkin-net-p-samie-milie-kotiki-pinterest-1.jpg"
+    },
+
+    {
+      "id": 4,
+      "category": "TECHNOLOGY",
+      "title": "8 Figma design systems you can download for free today",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Leslie Alexander",
+      "timestamp": 2143133,
+      "img": "https://cs14.pikabu.ru/post_img/2023/05/16/11/1684266643164829121.jpg"
+    },
+
+    {
+      "id": 5,
+      "category": "ECONOMY",
+      "title": "Font sizes in UI design: The complete guide to follow",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Leslie Alexander",
+      "timestamp": 214355133,
+      "img": "https://flomaster.top/o/uploads/posts/2024-02/1708686799_flomaster-top-p-super-milie-kotiki-pinterest-risunok-1.jpg"
+    },
+
+    {
+      "id": 6,
+      "category": "Business",
+      "title": "Font sizes in UI design: The complete guide to follow",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Guy Hawkins",
+      "timestamp": 284355133,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYF4yXZJx6XQlkDij8udMi9sgUJZ9Vkgwyvg&usqp=CAU"
+    },
+
+    {
+      "id": 7,
+      "category": "TECHNOLOGY",
+      "title": "React and React Native",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Eleanor Pena",
+      "timestamp": 28438855133,
+      "img": "https://cs13.pikabu.ru/post_img/2023/04/14/7/1681472041119176939.jpg"
+    },
+
+    {
+      "id": 8,
+      "category": "ECONOMY",
+      "title": "Angular",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Eleanor Pena",
+      "timestamp": 2843883,
+      "img": "https://i.pinimg.com/236x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg"
+    },
+
+    {
+      "id": 9,
+      "category": "ECONOMY",
+      "title": "Angular",
+      "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.",
+      "autor": "Robert Fox",
+      "timestamp": 2843111883,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuVJiY7HjlvUtPNrFUkPPQfUrVAPDnieJug&usqp=CAU"
+    }
+  ]
+}
