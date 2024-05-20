@@ -133,10 +133,11 @@
     }
   ],
 
-  "autors": [
+  "authors": [
     {
       "id": 1,
       "name": "Floyd Miles",
+      "company": "Modsen",
       "greeting": "Hey there, I’m Floyd Miles and welcome to my Blog",
       "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
       "photo": "https://i.pinimg.com/564x/48/68/c9/4868c98a35b736e4c5026825ddf7bdd5.jpg",
