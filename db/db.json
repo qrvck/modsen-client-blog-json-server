@@ -131,5 +131,21 @@
       "timestamp": 1653253200000,
       "img": "https://i.pinimg.com/564x/51/8b/bb/518bbb983255cf52f6d05c5f3b617175.jpg"
     }
+  ],
+
+  "autors": [
+    {
+      "id": 1,
+      "name": "Floyd Miles",
+      "greeting": "Hey there, I’m Floyd Miles and welcome to my Blog",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/48/68/c9/4868c98a35b736e4c5026825ddf7bdd5.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    }
   ]
 }
