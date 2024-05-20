@@ -147,6 +147,111 @@
         "instagram": "https://www.instagram.com",
         "linkedin": "https://www.linkedin.com/company"
       }
+    },
+
+    {
+      "id": 2,
+      "name": "Dianne Russell",
+      "company": "PixelPlex",
+      "greeting": "Hey there!!!",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/50/30/0d/50300dd9df319dde1be4c3b0f56a1039.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    },
+
+    {
+      "id": 3,
+      "name": "Leslie Alexander",
+      "company": "Modsen",
+      "greeting": "I’m Leslie 🤟",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/fc/d3/10/fcd310ba94dc6047d36d2a55f7dcb2f1.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    },
+
+    {
+      "id": 4,
+      "name": "Guy Hawkins",
+      "company": "Modsen",
+      "greeting": "Guy Hawkins - it's me",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/fc/d3/10/fcd310ba94dc6047d36d2a55f7dcb2f1.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    },
+
+     {
+      "id": 5,
+      "name": "Jacob Jones",
+      "company": "PixelPlex",
+      "greeting": "HeLLo eVeRy BoDy",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/1d/2b/a5/1d2ba5b44d60b677b2980b1ed70a8adf.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    },
+
+    {
+      "id": 6,
+      "name": "Robert Fox",
+      "company": "Modsen",
+      "greeting": "Robert Fox, not John Downey Jr",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/81/c0/9a/81c09a7040f0dd6e9c47790485cb95cd.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    },
+
+    {
+      "id": 7,
+      "name": "Eleanor Pena",
+      "company": "JazzTeam",
+      "greeting": "Eleanor Pena 🤪",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/b9/19/fa/b919fa4777f9fc2eea79a99b9bda1634.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
+    },
+
+    {
+      "id": 8,
+      "name": "Jenny Wilson",
+      "company": "Modsen",
+      "greeting": "Jenny Wilson from Canada 🍁",
+      "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "photo": "https://i.pinimg.com/564x/5c/3f/82/5c3f82594bca7e2e0b104ad57fd1c9e3.jpg",
+      "socialNetworks": {
+        "twitter": "https://twitter.com",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "linkedin": "https://www.linkedin.com/company"
+      }
     }
   ]
 }
