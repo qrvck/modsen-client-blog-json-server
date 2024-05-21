@@ -9,7 +9,7 @@
       "author": "Floyd Miles",
       "timestamp": 1651525200000,
       "img": "https://i.pinimg.com/736x/18/88/2d/18882de68a593383dfdc20b3eef1adc0.jpg",
-      "hashtags": ["#design", "#fashion"]
+      "tags": ["design", "fashion"]
     },
 
     {
@@ -21,7 +21,7 @@
       "author": "Dianne Russell",
       "timestamp": 1651525200000,
       "img": "https://i.pinimg.com/236x/8a/e9/ed/8ae9ed1a33832cc81db2cd8b597aac71.jpg",
-      "hashtags": ["#investment", "#entrepreneur", "#mindset"]
+      "tags": ["investment", "entrepreneur", "mindset"]
     },
 
     {
@@ -33,7 +33,7 @@
       "author": "Jenny Wilson",
       "timestamp": 1651698000000,
       "img": "https://i.pinimg.com/236x/35/4c/e3/354ce35a5aa12f65b1a5df7433b4cab5.jpg",
-      "hashtags": ["#innovation", "#fashion", "#startupIdeas", "#creativity"]
+      "tags": ["innovation", "fashion", "startupIdeas", "creativity"]
     },
 
     {
@@ -45,7 +45,7 @@
       "author": "Leslie Alexander",
       "timestamp": 1652302800000,
       "img": "https://i.pinimg.com/236x/7e/69/9b/7e699b017aa7c45c2bc5d79546ba0b99.jpg",
-      "hashtags": ["#innovation", "#programming", "#coding"]
+      "tags": ["innovation", "programming", "coding"]
     },
 
     {
@@ -57,7 +57,7 @@
       "author": "Leslie Alexander",
       "timestamp": 1652648400000,
       "img": "https://i.pinimg.com/236x/fd/43/6f/fd436fcd22e5e456098e84a4b63c7fbf.jpg",
-      "hashtags": ["#investing", "#money", "#trading"]
+      "tags": ["investing", "money", "trading"]
     },
 
     {
@@ -69,7 +69,7 @@
       "author": "Guy Hawkins",
       "timestamp": 1652648400000,
       "img": "https://i.pinimg.com/236x/47/a3/78/47a378a579df645f7e8ab8c5e999355c.jpg",
-      "hashtags": ["#investment", "#finance", "mindset", "goals"]
+      "tags": ["investment", "finance", "mindset", "goals"]
     },
 
     {
@@ -81,7 +81,7 @@
       "author": "Eleanor Pena",
       "timestamp": 1652734800000,
       "img": "https://i.pinimg.com/236x/cb/eb/60/cbeb6000bdf4c701ce27dfeac594357f.jpg",
-      "hashtags": ["#innovation", "#coding", "#electronics", "#technews"]
+      "tags": ["innovation", "coding", "electronics", "technews"]
     },
 
     {
@@ -93,7 +93,7 @@
       "author": "Eleanor Pena",
       "timestamp": 1652907600000,
       "img": "https://i.pinimg.com/236x/ef/94/31/ef9431d580ebd4f49e20f86cd7e9e732.jpg",
-      "hashtags": ["#investment", "#money", "#forex", "#stocks"]
+      "tags": ["investment", "money", "forex", "stocks"]
     },
 
     {
@@ -105,7 +105,7 @@
       "author": "Robert Fox",
       "timestamp": 1653166800000,
       "img": "https://i.pinimg.com/236x/d0/68/8a/d0688aa78b638f51e9e2f626e203ae27.jpg",
-      "hashtags": ["#investing", "#forex", "#stocks"]
+      "tags": ["investing", "forex", "stocks"]
     },
 
     {
@@ -117,7 +117,7 @@
       "author": "Floyd Miles",
       "timestamp": 1653166800000,
       "img": "https://i.pinimg.com/236x/cb/eb/60/cbeb6000bdf4c701ce27dfeac594357f.jpg",
-      "hashtags": ["#innovation", "#fashion", "iot"]
+      "tags": ["innovation", "fashion", "iot"]
     },
 
     {
@@ -129,7 +129,7 @@
       "author": "James West",
       "timestamp": 1653253200000,
       "img": "https://i.pinimg.com/564x/a9/a2/f3/a9a2f3487118b187b72e410db0ed07c3.jpg",
-      "hashtags": ["#strategy", "#knowledge", "#startupIdeas", "#creativity"]
+      "tags": ["strategy", "knowledge", "startupIdeas", "creativity"]
     },
 
     {
@@ -141,7 +141,7 @@
       "author": "Guy Hawkins",
       "timestamp": 1653253200000,
       "img": "https://i.pinimg.com/564x/51/8b/bb/518bbb983255cf52f6d05c5f3b617175.jpg",
-      "hashtags": ["#entrepreneur", "mindset", "goals"]
+      "tags": ["entrepreneur", "mindset", "goals"]
     }
   ],
 
